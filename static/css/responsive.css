@@ -1,0 +1,476 @@
+
+/*============ Very large Device ===========*/
+@media (min-width:1441px) and (max-width:1919px){
+    .inner_subscribe_left_cont h2 {
+        font-size: 32px;
+    }
+    .header_item_main {
+        flex-wrap: nowrap;
+    }
+}
+/*============ Desktop Device ===========*/
+@media (min-width:1366px) and (max-width:1440px){
+    .header_top {
+        padding: 10px 178px;
+    }
+    .main_menu_area{
+        padding: 0 20px;
+        margin: 0;
+    }
+    .inner_main_nav_area >ul >li >a {
+        margin: 35px 6px;
+    }
+    .main_feature {
+        padding: 30px 4px 72px 9px;
+    }
+    .testimonial_area .slick-next {
+        right: 27px;
+    }
+    .testimonial_area .slick-prev {
+        left: 86%;
+    }
+}
+/*============ Laptop Device ===========*/
+@media (min-width:1024px) and (max-width:1365px){
+    h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
+        font-weight: 500;
+    }
+    .header_top {
+        padding: 10px 15px;
+    }
+    .main_menu_area{
+        padding: 0 20px;
+        margin: 0;
+    }
+    .inner_main_nav_area >ul >li >a {
+        margin: 35px 4px 35px;
+    }
+    /* slider area css */
+    .inner_slider_area {
+        height: 700px;
+    }
+    .inner_slider_content {
+        width: 100%;
+        margin-left: 30px;
+    }
+    .inner_slider_content h2, .inner_slider_content h3 {
+        font-size: 40px;
+    }
+    .site_logo_area {
+        margin-right: -13px;
+    }
+    .feature_area {
+        padding: 50px 0;
+    }
+    .main_feature h2 a{
+        font-size: 17px;
+    }
+    .witr_contx h2 {
+        width: 100%;
+    }
+    .service_right_icon {
+        top: 42%;
+    }
+    .port_title h2 {
+        font-size: 46px;
+    }
+    .pric_middle {
+        padding: 40px 15px 40px 15px;
+    }
+    .team_area {
+        padding: 50px 0 10px;
+    }
+    .witr_section_title_inner h2 {
+        font-size: 34px;
+    }
+    .testimonial_area {
+        margin: 60px 0;
+    }
+    .cal_siconw a {
+        font-size: 65px;
+        width: 191px;
+        height: 190px;
+        line-height: 190px;
+    }
+    .cal_active {
+        width: 69%;
+    }
+    .contact_title {
+        padding: 120px 34px 50px 33px;
+        width: 100%;
+    }
+    .inner_contact_content h2 {
+        font-size: 41px;
+    }
+    .section_title h2 {
+        font-size: 36px;
+    }
+    .main_counter {
+        padding: 30px 20px 30px 23px;
+    }
+    .ttsicon {
+        top: -35px;
+    }
+    .inner_counter_area h2 {
+        font-size: 16px;
+    }
+    .ycalender_inner {
+        padding: 20px 14px;
+    }
+    .ycalender_inner td {
+        padding: 10px 10px;
+    }
+    .ycalender_inner th {
+        padding: 10px 11px;
+    }
+}
+
+/*============= Tablet Large device ===============*/
+@media (min-width:992px) and (max-width:1023px){
+    h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
+        font-weight: 500;
+    }
+    .header_top {
+        padding: 10px 15px;
+    }
+    .main_menu_area{
+        padding: 0 20px;
+        margin: 0;
+    }
+    .inner_main_nav_area >ul >li >a {
+        margin: 35px 4px 35px;
+    }
+    /* slider area css */
+    .inner_slider_area {
+        height: 700px;
+    }
+    .inner_slider_content {
+        width: 100%;
+        margin-left: 30px;
+    }
+    .inner_slider_content h2, .inner_slider_content h3 {
+        font-size: 40px;
+    }
+    .site_logo_area {
+        margin-right: -13px;
+    }
+    .feature_area {
+        padding: 50px 0;
+    }
+    .main_feature h2 a{
+        font-size: 17px;
+    }
+    .service_right_icon {
+        top: 42%;
+    }
+    .witr_contx h2 {
+        width: 100%;
+    }
+    .port_title h2 {
+        font-size: 46px;
+    }
+    .pric_middle {
+        padding: 40px 15px 40px 15px;
+    }
+    .team_area {
+        padding: 50px 0 10px;
+    }
+    .witr_section_title_inner h2 {
+        font-size: 34px;
+    }
+    .testimonial_area {
+        margin: 60px 0;
+    }
+    .cal_siconw a {
+        font-size: 65px;
+        width: 191px;
+        height: 190px;
+        line-height: 190px;
+    }
+    .cal_active {
+        width: 69%;
+    }
+    .contact_title {
+        padding: 120px 34px 50px 33px;
+        width: 100%;
+    }
+    .inner_contact_content h2 {
+        font-size: 41px;
+    }
+    .main_counter {
+        padding: 30px 20px 30px 23px;
+    }
+    .inner_counter_area h2 {
+        font-size: 16px;
+    }
+    .section_title h2 {
+        font-size: 36px;
+    }
+    .ycalender_inner {
+        padding: 20px 14px;
+    }
+    .ycalender_inner td {
+        padding: 10px 10px;
+    }
+    .ycalender_inner th {
+        padding: 10px 11px;
+    }
+}
+/*============= Tablet device ===============*/
+@media (min-width:768px) and (max-width:991px){
+    h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
+        font-weight: 500;
+    }
+    .header_top {
+        padding: 10px 0;
+    }
+    .mobile_logo_area{
+        display: block !important;
+        padding: 10px 0;
+    }
+    .header_top, .top_menu_right{
+        text-align: center;
+        justify-content: center;
+    }
+     /* main nav area css */
+     .main_menu_area{
+        display: none;
+    }
+     /* slider area css */
+     .inner_slider_area {
+        height: 500px;
+    }
+    .inner_slider_content {
+        width: 100%;
+        margin-left: 30px;
+        text-align: center;
+    }
+    .inner_slider_content h2,.inner_slider_content h3 {
+        font-size: 40px;
+    }
+    .inner_breadcum_area {
+        text-align: center;
+    }
+    .section_title h2 {
+        font-size: 35px;
+    }
+    .main_counter {
+        padding: 30px 20px 30px 23px;
+    }
+    .inner_counter_area h2 {
+        font-size: 16px;
+    }
+    .inner_breadcum_area h1 {
+        font-size: 45px;
+    }
+    .about_active h2 {
+        font-size: 30px;
+    }
+    .feature_area {
+        padding: 50px 0;
+    }
+    .tpr_curn {
+        padding: 40px 25px;
+    }
+    .pric_middle {
+        padding: 40px 37px 40px 40px;
+    }
+    .team_area {
+        padding: 50px 0 10px;
+    }
+    .contact_title {
+        padding: 80px 20px 50px 20px;
+        width: 100%;
+    }
+    .witr_contx h2 {
+        width: 100%;
+    }
+    .inner_contact_content h2 {
+        font-size: 30px;
+    }
+    .witr_section_title_inner h2 {
+        font-size: 23px;
+    }
+    .testimonial_area {
+        margin: 60px 0;
+    }
+    .cal_active {
+        width: 100%;
+    }
+    .cal_siconw a {
+        margin-bottom: 20px;
+    }
+    .copy_right_text p {
+        margin: 0 0 -25px;
+    }
+
+
+    .portfolio_title h2 {
+        font-size: 45px;
+    }
+    .ycalender_inner {
+        padding: 20px 16px;
+    }
+    .main_tem {
+        margin-bottom: 20px;
+    }
+}
+/*============= mobile large device ===============*/
+@media (max-width:767px){
+    h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
+        font-weight: 500;
+    }
+    .mobile_logo_area{
+        display: block !important;
+        padding: 10px 0;
+    }
+    .header_top {
+        padding: 10px 0;
+        text-align: center;
+    }
+    .top_menu_right {
+        justify-content: center;
+    }
+    .header_item_main {
+        margin: 10px 0;
+    }
+     /* main nav area css */
+     .main_menu_area{
+        display: none;
+    }
+     /* slider area css */
+     .inner_slider_area {
+        height: 500px;
+    }
+    .inner_slider_content {
+        text-align: center;
+        width: 100%;
+        margin-left: 0;
+    }
+    .inner_slider_content h2,.inner_slider_content h3 {
+        font-size: 50px;
+    }
+    .inner_breadcum_area h1 {
+        font-size: 30px;
+    }
+    .inner_breadcum_area {
+        text-align: center;
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .portfolio_title h2 {
+        font-size: 30px;
+    }
+    .inner_counter_sub_cont h3, .inner_counter_sub_cont span {
+        font-size: 45px;
+    }
+    .about_active h2, .section_title h2, .video_title h2, .port_title h2 {
+        font-size: 26px;
+    }
+    .video_alin {
+        text-align: center;
+    }
+    .main_counter {
+        margin-bottom: 20px;
+    }
+    .team_area {
+        padding: 50px 0 10px;
+    }
+    .main_tem {
+        margin-bottom: 20px;
+    }
+    .inner_contact_content h2, .witr_section_title_inner h2 {
+        font-size: 30px;
+    }
+    .main_client {
+        display: block;
+    }
+    .testimonial_area {
+        margin: 60px 0;
+        text-align: center;
+    }
+    .wirt_new_iner h3, .wirt_new_iner span {
+        font-size: 34px;
+    }
+
+
+}
+/*============= mobile device ===============*/
+@media (min-width:320px) and (max-width:480px){
+    .header_top {
+        padding: 10px 0;
+    }
+    .heder_lo_icon {
+        margin-bottom: 15px;
+    }
+    .inner_slider_content h2, .inner_slider_content h3 {
+        font-size: 26px;
+    }
+    .about_active {
+        margin-top: 15px;
+    }
+    .feature_area {
+        padding: 50px 0;
+    }
+    .service_right_icon {
+        top: 42%;
+    }
+    .witr_btnp_color a.btn {
+        padding: 18px 20px;
+    }
+    .pric_middle {
+        padding: 40px 5px 40px 5px;
+    }
+    .contact_title {
+        padding: 20px 30px;
+        width: 100%;
+        margin: 0;
+        text-align: center;
+    }
+    .inner_contact_content h2, .witr_section_title_inner h2 {
+        font-size: 24px;
+    }
+    .skill_left_inner {
+        margin: 0 0;
+    }
+    .client_text p {
+        font-size: 17px;
+    }
+    .cal_siconw a {
+        font-size: 50px;
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+    }
+    .gr_title h3 {
+        font-size: 28px;
+    }
+    .cal_active {
+        display: block;
+    }
+    .ycalender_inner td {
+        padding: 10px 8px;
+    }
+    .ycalender_inner th {
+        padding: 10px 12px;
+    }
+    .wirt_new_iner {
+        float: none;
+    }
+    .witr_siconw a {
+        margin-left: 60px;
+    }
+    .witr_contx h2 {
+        padding: 20px 0 0;
+        width: 100%;
+    }
+    .main_tem:hover .team_icon {
+        top: 4%;
+    }
+    .footer_area, .footer_menu {
+        text-align: center;
+    }
+    #scrollUp {
+        bottom: 110px;
+    }
+}
